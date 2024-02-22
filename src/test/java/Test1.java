@@ -8,6 +8,6 @@ public class Test1 {
     public void test(){
        int res= Main.five();
         System.out.println(res);
-        Assert.assertEquals(5, res);
+        Assert.assertEquals(6, res);
     }
 }

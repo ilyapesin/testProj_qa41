@@ -17,7 +17,7 @@ public class Main {
         }
     }
     public static int five() {
-        return 5;
+        return 6;
 
     }
 }
