@@ -8,6 +8,6 @@ public class MyFirstTest {
     public void test_start() throws InterruptedException {
         WebDriver driver = new ChromeDriver();
         driver.navigate().to("https://demoqa.com/");
-        Thread.sleep(10000);
+        Thread.sleep(1000);
     }
 }
